@@ -12,7 +12,6 @@ This project calculates the total cost of feeding the animals in a zoo for a day
 - [Data Files](#data-files)
 - [Unit Test](#unit-test)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -65,7 +64,3 @@ To run unit tests for the Zoo Food CostPerDay Test, follow these steps:
 Contributions are welcome! Please feel free to open issues or pull requests for any improvements or new features.
 
 
-## License
-This project is licensed under the MIT License.
-Make sure to replace placeholders like 'tulsi-halwai' with your actual GitHub username and update any other details specific to your project. This README provides an overview of the project, installation instructions, usage guide, information about API endpoints and data files, contribution guidelines, and license information.
-Having a well-documented README.md file makes it easier for others to understand, use, and contribute to your project.
