@@ -10,6 +10,7 @@ This project calculates the total cost of feeding the animals in a zoo for a day
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Data Files](#data-files)
+- [Unit Test](#unit-test)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -49,6 +50,17 @@ prices.txt: Contains the prices of meat and fruit per kg.
 animals.csv: Contains information about animal species, their food type, and rates.
 zoo.xml: Provides information about the animals in the zoo, including their names and weights.
 
+## Unit Tests
+
+To run unit tests for the Zoo Food CostPerDay Test, follow these steps:
+
+1. Navigate to the test project directory:
+   cd ZooFoodCostPerDayTest.Tests
+
+2. Run the tests:
+   dotnet test
+
+   
 ## Contributing
 Contributions are welcome! Please feel free to open issues or pull requests for any improvements or new features.
 
