@@ -25,7 +25,7 @@ Based on this data, it calculates the total cost using a dependency injection ap
 ## Installation
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/your-username/zoo-food-cost-calculator.git
+   git clone (https://github.com/thalwai9/ZooFoodCost)
 
 ## Usage
 
