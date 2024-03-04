@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ZooFoodApi.Controllers.ZooCostController",
+    "Method": "GetTotalCost",
+    "RelativePath": "api/ZooCost",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZooFoodApi", "ZooFoodApi.csproj", "{B8A6AF72-1225-4E8D-AE08-43EF543E5887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooFoodCostPerDayTest", "..\ZooFoodCostPerDayTest\ZooFoodCostPerDayTest.csproj", "{5C6819B8-9077-4CA6-AF26-14C4348F3D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A6AF72-1225-4E8D-AE08-43EF543E5887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A6AF72-1225-4E8D-AE08-43EF543E5887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A6AF72-1225-4E8D-AE08-43EF543E5887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A6AF72-1225-4E8D-AE08-43EF543E5887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C6819B8-9077-4CA6-AF26-14C4348F3D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6819B8-9077-4CA6-AF26-14C4348F3D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6819B8-9077-4CA6-AF26-14C4348F3D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6819B8-9077-4CA6-AF26-14C4348F3D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B59B73E7-A23D-48A2-8DE3-29AE2AFD8BAD}
+	EndGlobalSection
+EndGlobal
